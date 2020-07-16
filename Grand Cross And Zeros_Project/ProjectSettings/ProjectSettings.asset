@@ -259,15 +259,17 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: '
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: "D:/Other Files/Development/Unity Development/Grand Cross
+    And Zeros/\u0424\u0430\u0439\u043B\u044B \u0434\u043B\u044F \u0438\u0433\u0440\u044B/\u041A\u043B\u044E\u0447
+    (Keystore)/GrandCrossAndZeros.keystore"
+  AndroidKeyaliasName: karakuli
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 0
+  androidUseCustomKeystore: 1
   m_AndroidBanners:
   - width: 320
     height: 180
